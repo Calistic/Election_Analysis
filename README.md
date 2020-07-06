@@ -13,7 +13,7 @@ A Colorado Board of Elections employee has giving me the following tasks to comp
 - Data Source: election_results.csv
 - Software: Python 3.6, Visual Sudio Code
 
-## Summary
+## Result Summary
 The analysis of the elction show that:
 - There were 369,711 votes cast in the election
 - The candidates and there percentage of the vote were:
@@ -21,19 +21,12 @@ The analysis of the elction show that:
   - Diana DeGette: 73.8% (272,892)
   - Raymon Anthony Doane: 3.1% (11,606)
 
+### Election Results
 The winner of the elction was:
   - Winner: Diana DeGette
   - Winning Vote Count: 272,892
   - Winning Percentage: 73.8%
-  
-## Challenge Overview
 
-Added for loop to cycle through unique counties and in the process save the total number of votes per county.
-Added county results to text file and terminal ouput.
-  
-## Challenge Summary
-
-### Election Results
 
 #### Total Votes: 369,711
 
@@ -51,3 +44,8 @@ Added county results to text file and terminal ouput.
 - #### Winner: Diana DeGette
 - Winning Vote Count: 272,892
 - Winning Percentage: 73.8%
+
+## Script Overview
+
+Added for loop to cycle through unique counties and in the process save the total number of votes per county.
+Added county results to text file and terminal ouput.
